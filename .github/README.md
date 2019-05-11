@@ -22,9 +22,9 @@ Hun Devleti’nin baskılarına dayanamayan kavimler, Roma sınırına doğru ha
 
 <b>OYNANIŞ MEKANİKLERİ</b>
 
-Her oyun kendini tanımlayan bir oynanış mekaniğine sahiptir. Bu daha önce oyun türlerinde de bahsedilen FPS türü için birinci şahıs bakış açısından oynanması, TPS türü için üçüncü şahıs bakış açısıyla oynanması gibi örnekler verilebilir. Geliştirmekte olduğumuz oyun içinde gezilebilen bir alana sahip değildir. Tıkla ve ilerle şeklinde oyun içinde yol katedilmektedir. 
+Her oyun kendini tanımlayan bir oynanış mekaniğine sahiptir. Bu daha önce oyun türlerinde de bahsedilen FPS türü için birinci şahıs bakış açısından oynanması, TPS türü için üçüncü şahıs bakış açısıyla oynanması gibi örnekler verilebilir. Geliştirmekte olduğumuz oyun içinde gezilebilen bir alana sahip değildir. Tıkla ve ilerle şeklinde oyun içinde yol kat edilmektedir. 
 
-Oyun, tür olarak RPG türüne yakın gözükmektedir ama bir karakter gelişimi yoktur. Sadece oyuncunun adını kendi koyacağı kabileyi belirlenen bir hedefe götürmesi ele alınacaktır. Bu sebeple oynanış mekanikleri görünürde çok fazla değil daha çok arka planda işleyen ve kullanıcıyı oyuna bağlamayı sağlayacak nitelikler olacaktır.
+Oyun, tür olarak RPG türüne yakın gözükmektedir ama bir karakter gelişimi yoktur. Sadece oyuncunun adını kendi koyacağı kabileyi belirlenen bir hedefe götürmesi ele alınacaktır. Bu sebeple oynanış mekanikleri görünürde çok fazla değil, daha çok arka planda işleyen ve kullanıcıyı oyuna bağlamayı sağlayacak nitelikler olacaktır.
 
 Bahsettiğimiz gibi oyun karar ver, seçim yap ve verdiğin kararlar ile ilerleme sağlama üzerine mekaniklere sahip. 
 
