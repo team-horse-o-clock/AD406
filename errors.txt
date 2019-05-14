@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/0_prologue.rpy", line 202: expected end of line
+    stop music 1.0
+               ^
+
+Ren'Py Version: Ren'Py 7.2.2.491
+Fri May 03 00:49:52 2019
